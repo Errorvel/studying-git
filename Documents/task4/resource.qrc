@@ -1,2 +1,5 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/resouces">
+        <file>img/1458264596_authorisation_lock_padlock_safe_password_privacy_security_icon-icons.com_55333 (4).png</file>
+    </qresource>
+</RCC>

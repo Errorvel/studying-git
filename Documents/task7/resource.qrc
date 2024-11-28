@@ -1,2 +1,6 @@
-<!DOCTYPE RCC>
-<RCC version="1.0"/>
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/1458264596_authorisation_lock_padlock_safe_password_privacy_security_icon-icons.com_55333 (3).png</file>
+        <file>img/Смешные Фото Кошек.jpg</file>
+    </qresource>
+</RCC>
